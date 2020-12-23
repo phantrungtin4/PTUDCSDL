@@ -85,3 +85,45 @@ C:\Users\phant\OneDrive\Desktop\PTUDCSDL1\GiaoDien\DoAn_PTUDQL1\obj\Debug\DoAn_P
 C:\Users\phant\OneDrive\Desktop\PTUDCSDL1\GiaoDien\DoAn_PTUDQL1\obj\Debug\DoAn_PTUDQL1.csproj.CopyComplete
 C:\Users\phant\OneDrive\Desktop\PTUDCSDL1\GiaoDien\DoAn_PTUDQL1\obj\Debug\DoAn_PTUDQL1.exe
 C:\Users\phant\OneDrive\Desktop\PTUDCSDL1\GiaoDien\DoAn_PTUDQL1\obj\Debug\DoAn_PTUDQL1.pdb
+D:\Project\PTUDCSDL\GiaoDien\DoAn_PTUDQL1\bin\Debug\DoAn_PTUDQL1.exe.config
+D:\Project\PTUDCSDL\GiaoDien\DoAn_PTUDQL1\bin\Debug\DoAn_PTUDQL1.exe
+D:\Project\PTUDCSDL\GiaoDien\DoAn_PTUDQL1\bin\Debug\DoAn_PTUDQL1.pdb
+D:\Project\PTUDCSDL\GiaoDien\DoAn_PTUDQL1\bin\Debug\Krypton Docking.dll
+D:\Project\PTUDCSDL\GiaoDien\DoAn_PTUDQL1\bin\Debug\Krypton Navigator.dll
+D:\Project\PTUDCSDL\GiaoDien\DoAn_PTUDQL1\bin\Debug\Krypton Ribbon.dll
+D:\Project\PTUDCSDL\GiaoDien\DoAn_PTUDQL1\bin\Debug\Krypton Workspace.dll
+D:\Project\PTUDCSDL\GiaoDien\DoAn_PTUDQL1\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+D:\Project\PTUDCSDL\GiaoDien\DoAn_PTUDQL1\bin\Debug\Krypton Toolkit.dll
+D:\Project\PTUDCSDL\GiaoDien\DoAn_PTUDQL1\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+D:\Project\PTUDCSDL\GiaoDien\DoAn_PTUDQL1\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+D:\Project\PTUDCSDL\GiaoDien\DoAn_PTUDQL1\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+D:\Project\PTUDCSDL\GiaoDien\DoAn_PTUDQL1\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+D:\Project\PTUDCSDL\GiaoDien\DoAn_PTUDQL1\bin\Debug\CustomControlUsingPalettes.pdb
+D:\Project\PTUDCSDL\GiaoDien\DoAn_PTUDQL1\bin\Debug\CustomControlUsingPalettes.exe.config
+D:\Project\PTUDCSDL\GiaoDien\DoAn_PTUDQL1\bin\Debug\DockingCustomized.pdb
+D:\Project\PTUDCSDL\GiaoDien\DoAn_PTUDQL1\bin\Debug\DockingCustomized.exe.config
+D:\Project\PTUDCSDL\GiaoDien\DoAn_PTUDQL1\bin\Debug\DockingFlags.pdb
+D:\Project\PTUDCSDL\GiaoDien\DoAn_PTUDQL1\bin\Debug\DockingFlags.exe.config
+D:\Project\PTUDCSDL\GiaoDien\DoAn_PTUDQL1\bin\Debug\Krypton Docking.xml
+D:\Project\PTUDCSDL\GiaoDien\DoAn_PTUDQL1\bin\Debug\Krypton Navigator.xml
+D:\Project\PTUDCSDL\GiaoDien\DoAn_PTUDQL1\bin\Debug\Krypton Ribbon.xml
+D:\Project\PTUDCSDL\GiaoDien\DoAn_PTUDQL1\bin\Debug\Krypton Workspace.xml
+D:\Project\PTUDCSDL\GiaoDien\DoAn_PTUDQL1\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+D:\Project\PTUDCSDL\GiaoDien\DoAn_PTUDQL1\bin\Debug\Krypton Toolkit.xml
+D:\Project\PTUDCSDL\GiaoDien\DoAn_PTUDQL1\obj\Debug\DoAn_PTUDQL1.csprojAssemblyReference.cache
+D:\Project\PTUDCSDL\GiaoDien\DoAn_PTUDQL1\obj\Debug\DoAn_PTUDQL1.DangKy.resources
+D:\Project\PTUDCSDL\GiaoDien\DoAn_PTUDQL1\obj\Debug\DoAn_PTUDQL1.DangNhap.resources
+D:\Project\PTUDCSDL\GiaoDien\DoAn_PTUDQL1\obj\Debug\DoAn_PTUDQL1.DanhSachKhachHang.resources
+D:\Project\PTUDCSDL\GiaoDien\DoAn_PTUDQL1\obj\Debug\DoAn_PTUDQL1.DanhSachNhanVien.resources
+D:\Project\PTUDCSDL\GiaoDien\DoAn_PTUDQL1\obj\Debug\DoAn_PTUDQL1.DanhSachPhong.resources
+D:\Project\PTUDCSDL\GiaoDien\DoAn_PTUDQL1\obj\Debug\DoAn_PTUDQL1.DanhSachTang.resources
+D:\Project\PTUDCSDL\GiaoDien\DoAn_PTUDQL1\obj\Debug\DoAn_PTUDQL1.DanhSachToaNha.resources
+D:\Project\PTUDCSDL\GiaoDien\DoAn_PTUDQL1\obj\Debug\DoAn_PTUDQL1.KhachHang.resources
+D:\Project\PTUDCSDL\GiaoDien\DoAn_PTUDQL1\obj\Debug\DoAn_PTUDQL1.Properties.Resources.resources
+D:\Project\PTUDCSDL\GiaoDien\DoAn_PTUDQL1\obj\Debug\DoAn_PTUDQL1.TraCuuPhong.resources
+D:\Project\PTUDCSDL\GiaoDien\DoAn_PTUDQL1\obj\Debug\DoAn_PTUDQL1.UserUC.resources
+D:\Project\PTUDCSDL\GiaoDien\DoAn_PTUDQL1\obj\Debug\DoAn_PTUDQL1.csproj.GenerateResource.cache
+D:\Project\PTUDCSDL\GiaoDien\DoAn_PTUDQL1\obj\Debug\DoAn_PTUDQL1.csproj.CoreCompileInputs.cache
+D:\Project\PTUDCSDL\GiaoDien\DoAn_PTUDQL1\obj\Debug\DoAn_PTUDQL1.csproj.CopyComplete
+D:\Project\PTUDCSDL\GiaoDien\DoAn_PTUDQL1\obj\Debug\DoAn_PTUDQL1.exe
+D:\Project\PTUDCSDL\GiaoDien\DoAn_PTUDQL1\obj\Debug\DoAn_PTUDQL1.pdb
